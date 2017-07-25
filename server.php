@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost'; //host
+$host = 'ftp.gear.host';//'localhost'; //host
 $port = '9000'; //port
 $null = NULL; //null var
 // don't timeout!
