@@ -1,0 +1,5 @@
+SetEnv PHPRC /php.ini
+<Files ~ "\.(ini)$">
+order allow,deny
+deny from all
+</Files>
