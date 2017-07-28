@@ -1,4 +1,3 @@
-;SetEnv PHPRC \home\site\wwwroot\php.ini
 <IfModule mod_suphp.c>
 suPHP_ConfigPath /home/vol13_7/epizy.com/epiz_20445041/htdocs/php.ini
 </IfModule>
